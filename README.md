@@ -1,18 +1,21 @@
-# EPH-ML-Proyect
-Proyecto final de Machine Learning  Supervisado para la materia de Intro. al aprendizaje automático en la UNSAM. Se trabajo con la Encuesta Permanente de Hogares con el objetivo de realizar un modelo capaz de predecir el salario de un empleado en relación de dependencia. 
+# EPH-ML-Project
+Proyecto final de Machine Learning Supervisado para la materia de Introducción al aprendizaje automático en la UNSAM. Se trabajó con la Encuesta Permanente de Hogares con el objetivo de realizar un modelo capaz de predecir el salario de un empleado en relación de dependencia.
 
-## Descrpición:
+## Descripción:
 
-Este trabajo tiene como objetivo podes realizar un modelo de machine learning supervisado con el obejetio de aplicar todo lo aprendido en la materia y de esa manera poder predecir el  sueldo va a tener una persona segun distintos datos socio-econimicos. Ademas, buscar que peso tienen esas variables en el sueldo de una persona. 
+Este trabajo tiene como objetivo poder realizar un modelo de machine learning supervisado con el objetivo de aplicar todo lo aprendido en la materia y de esa manera poder predecir el sueldo que va a tener una persona según distintos datos socioeconómicos. Además, buscar qué peso tienen esas variables en el sueldo de una persona.
 
-## Conocimientos aplicados: 
+## Conocimientos aplicados:
 
--Preparación de los datos
--Modelos de regresión
--Evaluaciónes de modelos 
--Optimizadores de hiperparametros 
+- Preparación de los datos
 
-## Links: 
+- Modelos de regresión
+
+- Evaluaciones de modelos
+
+- Optimizadores de hiperparámetros
+
+## Links:
 
 link de los dataset de la EPH: https://www.indec.gob.ar/indec/web/Institucional-Indec-BasesDeDatos
 
