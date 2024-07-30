@@ -15,6 +15,18 @@ Este trabajo tiene como objetivo poder realizar un modelo de machine learning su
 
 - Optimizadores de hiperparámetros
 
+## Librerias utilizadas: 
+
+-sklearn
+
+-Pandas
+
+-Numpy
+
+-Matplotlib/Seaborn
+
+
+
 ## Links:
 
 link de los dataset de la EPH: https://www.indec.gob.ar/indec/web/Institucional-Indec-BasesDeDatos
